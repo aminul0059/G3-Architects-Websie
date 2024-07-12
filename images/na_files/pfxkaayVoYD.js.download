@@ -1,3 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("BizInboxStateContext",["react"],(function(a,b,c,d,e,f,g){"use strict";var h;a=h||d("react");b=a.createContext(Object.freeze({}));c=b;g["default"]=c}),98);
